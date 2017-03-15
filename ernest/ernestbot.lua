@@ -256,7 +256,7 @@ function create_config( )
 "AddSudo",
 "KickMe"
     },
-    sudo_users = {123456},--Sudo users
+    sudo_users = {203850910},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[
 	SOURCE BY ERNEST TM and TEleSEED and CSGTEAM
