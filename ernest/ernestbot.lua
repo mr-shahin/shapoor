@@ -259,7 +259,7 @@ function create_config( )
     sudo_users = {123456},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[
-	SOURCE BY ERNEST TM
+	SOURCE BY ERNEST TM and TEleSEED and CSGTEAM
 		@ERNEST_TM
 ]],
   }
