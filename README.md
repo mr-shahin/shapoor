@@ -128,3 +128,5 @@ tmux new-session -s script "bash steady.sh -t"
 
 teleseed>teleernest>telegramcsg-
 thanks!!
+قابل توجه که برخی پلاگینها  فعال نمیباشند !
+استفاده از این سورس آزاد 
