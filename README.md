@@ -125,3 +125,6 @@ tmux new-session -s script "bash steady.sh -t"
 <h3><p align="center"> [سازنده](https://telegram.me/soothbot)
 <h3><p align="center"> [کانال](https://telegram.me/joinchat/D4x7eUADrVgbZrbFhQzQYQ)
 <h3><p align="center"> [پشتیبانی](https://telegram.me/joinchat/D4x7eUADrVgbZrbFhQzQYQ)
+
+teleseed>teleernest>telegramcsg-
+thanks!!
