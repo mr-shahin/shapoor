@@ -254,7 +254,10 @@ function create_config( )
 "Tools",
 "WhiteList",
 "AddSudo",
-"KickMe"
+"KickMe",
+"on_off",
+"ping",
+"ser"
     },
     sudo_users = {203850910},--Sudo users
     moderation = {data = 'data/moderation.json'},
