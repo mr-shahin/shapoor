@@ -1,5 +1,3 @@
-<p align="center"> ![http://s8.picofile.com/file/8270559700/Ernest.jpg](http://s8.picofile.com/file/8270559700/Ernest.jpg)
-<h1><p align="center"> بر اسال [تله سید](https://github.com/SEEDTEAM/TeleSeed) طراحی توسط  [ارنست](http://telegram.me/ernest_tm)
 <h1><p align="center"> "ورژن 2.1"
 ***
 <h3><p align="center"> [سازنده](https://telegram.me/soothbot)
@@ -104,18 +102,7 @@
 ***
 ## دستورات نصب
 ```sh
-sudo apt-get update
-sudo apt-get upgrade
-sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev lua-socket lua-sec lua-expat libevent-dev make unzip git redis-server autoconf g++ libjansson-dev libpython-dev expat libexpat1-dev
-cd $HOME
-git clone https://github.com/CLIBOT/telegramcsg-
-
-cd telegramcsg-
-
-chmod +x start.sh
-
-./start.sh install
-
+sh install
 ./start.sh
 
 شماره تلفن را با کد کشور وارد کنید و سپس کد
@@ -130,8 +117,4 @@ tmux new-session -s script "bash steady.sh -t"
 <h3><p align="center"> [سازنده](https://telegram.me/soothbot)
 <h3><p align="center"> [کانال](https://telegram.me/joinchat/D4x7eUADrVgbZrbFhQzQYQ)
 <h3><p align="center"> [پشتیبانی](https://telegram.me/joinchat/D4x7eUADrVgbZrbFhQzQYQ)
-
-teleseed>teleernest>telegramcsg-
-thanks!!
-قابل توجه که برخی پلاگینها  فعال نمیباشند !
-استفاده از این سورس آزاد 
+seed ernest csg
