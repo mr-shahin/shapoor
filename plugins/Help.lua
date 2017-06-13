@@ -1,25 +1,5 @@
 local datebase = {
-"
-`!lock [links|spam|flood|member|sticker|username|fwd|inline|tag|all|leave|join|arabic|media|fosh|Strict|bots]`
-`!unlock [links|spam|flood|member|sticker|username|fwd|inline|tag|all|leave|join|arabic|media|fosh|Strict|bots]`
-••••••••••
-`!setflood [3/20]`
-••••••••••
-`!mute [audio|photo|video|gifs|documents|text|all]`
-`!unmute [audio|photo|video|gifs|documents|text|all]`
-••••••••••
-`!markread [yes|no]`
-••••••••••
-`!setlang [fa|en]`
-••••••••••
-`!silent  [ reply]`
-`!unsilent [reply]`
-••••••••••
-`!setname [text]`
-`!setabout [text]`
-`!setrules [text]`
-`!setphoto [text]`
-`!setusername [text]` ",
+" !lock [links|spam|flood|member|sticker|username|fwd|inline|tag|all|leave|join|arabic|media|fosh|Strict|bots] \n\n!unlock [links|spam|flood|member|sticker|username|fwd|inline|tag|all|leave|join|arabic|media|fosh|Strict|bots] \n•••••••••• \n!setflood [3/20]\n •••••••••• \n!mute [audio|photo|video|gifs|documents|text|all]\n !unmute [audio|photo|video|gifs|documents|text|all] \n•••••••••• \n!markread [yes|no]\n ••••••••••\n !setlang [fa|en] \n••••••••••\n !silent  [ reply] \n!unsilent [reply\n ••••••••••\n !setname [text]\n !setabout [text]\n !setrules [text]\n !setphoto [text] \n!setusername [text]\n !setwlc [text] \n !delwlc \n !settings \n !public [yes|no] \n !info \n !id",
 "\
   }
 local function run(msg, matches) 
