@@ -263,7 +263,6 @@ function create_config( )
     moderation = {data = 'data/moderation.json'},
     about_text = [[
 	SOURCE BY ERNEST TM and TEleSEED and CSGTEAM
-		@ERNEST_TM
 ]],
   }
   serialize_to_file(config, './data/config.lua')
