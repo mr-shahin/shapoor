@@ -1,5 +1,5 @@
 -- @Ernest_TM
-local function pre_process(msg)
+local function run(msg)
 -- Begin 'RondoMsgChecks' text checks by @rondoozle
 if is_chat_msg(msg) or is_super_group(msg) then
 	if msg and not is_momod(msg) and not is_whitelisted(msg.from.id) then --if regular user
@@ -291,6 +291,6 @@ end
 --End pre_process function
 return {
 	patterns = {},
-	pre_process = pre_process
+	run = run
 }
 -- MR_YAVAR
