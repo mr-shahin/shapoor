@@ -23,5 +23,3 @@ return {
   run = run,
   moderated = true
 }
-
--- @vVv_ERPO_vVv
