@@ -1,4 +1,4 @@
 [submodule "tg"]
 	path = tg
-	url =  https://valtman.name/files/telegram-cli-1222
+	url =  https://github.com/mr-shahin/telegram
 
