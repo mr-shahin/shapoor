@@ -20,17 +20,17 @@ memUsed_m=$(($memTotal_m-$memFree_m-$memBuffer_m-$memCache_m))
 memUsedPrc=$((($memUsed_b*100)/$memTotal_b))
 
 echo "1-رم: به صورت پیشفرض: $memTotal_m MB"
-echo "🔹🔹🔹🔹🔹🔹🔹🔹🔹"
+echo "🔹🔹🔹🔹🔹🔹🔹🔹•🔹"
 echo "2-مقدار استفاده شده از رم: $memUsed_m مگابایت - $memUsedPrc% استفاده شده!"
-echo "🔹🔹🔹🔹🔹🔹🔹🔹🔹"
+echo "🔹🔹🔹🔹🔹🔹🔹🔹••🔹"
 echo "3-مقدار کل : $memTotal_b"
-echo "🔹🔹🔹🔹🔹🔹🔹🔹🔹"
+echo "🔹🔹🔹🔹🔹🔹🔹🔹•••🔹"
 echo '4-مقدار استفاده شده از پردازنده : '"$CPUPer"'%'
-echo "🔹🔹🔹🔹🔹🔹🔹🔹🔹"
+echo "🔹🔹🔹🔹🔹🔹🔹🔹••••🔹"
 echo '5-مقدار فضا : '"$hdd"'%'
-echo "🔹🔹🔹🔹🔹🔹🔹🔹🔹"
+echo "🔹🔹🔹🔹🔹🔹🔹🔹•••••🔹"
 echo '6-تعداد پردازش : '"$ProcessCnt"
-echo "🔹🔹🔹🔹🔹🔹🔹🔹🔹"
+echo "🔹🔹🔹🔹🔹🔹🔹🔹••••••🔹"
 echo '7-آپ تایم : '"$uptime"
-echo "»»CSG_TEAM««"
+echo "»»PC land CLI««"
 echo "MR_YAVAR"
